@@ -1,0 +1,45 @@
+============================================================
+  STUDENT PERFORMANCE PREDICTION SYSTEM
+  IS 108 – Intelligence System | SY 2025-2026
+============================================================
+
+FILES INCLUDED:
+  app.py                    → Main Streamlit application
+  student_performance.csv   → Sample dataset (500 records)
+  requirements.txt          → Python dependencies
+  Project_Documentation.docx → Project documentation
+
+------------------------------------------------------------
+STEP 1 — INSTALL PYTHON
+  Download Python 3.9+ from https://python.org
+  Make sure to check "Add Python to PATH" during install.
+
+------------------------------------------------------------
+STEP 2 — INSTALL DEPENDENCIES
+  Open a terminal / command prompt in this folder and run:
+
+    pip install -r requirements.txt
+
+------------------------------------------------------------
+STEP 3 — RUN THE APPLICATION
+
+    streamlit run app.py
+
+  This will open the app automatically in your browser at:
+    http://localhost:8501
+
+------------------------------------------------------------
+STEP 4 — USE THE APP (in order)
+  1. Home          → Read the overview
+  2. Dataset       → Click "Use Sample Dataset"
+  3. Preprocessing → Click through each step → Confirm
+  4. Model Training → Configure and click "Train All Models"
+  5. Evaluation    → View metrics and confusion matrices
+  6. Prediction    → Enter a student's info and predict!
+
+------------------------------------------------------------
+NOTES:
+  - Record the accuracy/F1 values shown in Evaluation
+    and fill them into your Documentation (Section VII)
+  - For the presentation, run the app and demo it live
+============================================================

@@ -1,0 +1,501 @@
+study_hours_per_day,attendance_rate,previous_grade,parent_education,internet_access,extracurricular,sleep_hours,tutoring_support,absences,performance
+6.0,,94.8,High School,Yes,No,7.6,No,9,Pass
+4.7,100.0,89.1,Graduate,Yes,No,5.3,No,8,Average
+6.3,54.0,78.7,College,Yes,No,7.4,No,19,Average
+8.0,83.4,70.2,High School,Yes,Yes,4.5,No,6,Pass
+4.5,65.2,86.4,High School,Yes,Yes,7.8,No,1,Average
+4.5,67.7,82.7,High School,Yes,No,8.1,Yes,6,Average
+8.2,66.1,88.7,College,No,Yes,6.3,No,7,Average
+6.5,62.0,85.6,College,No,No,7.1,Yes,6,Average
+4.1,75.7,90.6,College,Yes,No,9.3,No,13,Average
+6.1,62.5,71.6,College,Yes,Yes,6.4,Yes,18,Average
+4.1,79.1,93.8,College,Yes,No,5.7,No,4,Average
+4.1,74.2,80.4,High School,Yes,No,8.8,No,17,Average
+5.5,71.4,100.0,High School,Yes,Yes,9.4,Yes,19,Average
+1.2,61.4,69.7,College,Yes,No,7.0,Yes,11,Fail
+1.6,66.3,98.8,High School,Yes,No,8.2,Yes,16,Average
+3.9,86.3,80.4,High School,No,No,8.6,No,12,Average
+3.0,82.5,70.2,College,Yes,No,6.1,No,1,Average
+5.6,60.3,72.2,College,Yes,Yes,6.4,Yes,12,Average
+3.2,76.5,74.2,Graduate,Yes,No,8.5,No,6,Average
+2.2,86.3,83.1,Graduate,Yes,No,9.0,Yes,9,Average
+7.9,50.0,84.3,College,Yes,No,7.7,No,5,Average
+4.5,83.2,71.1,College,Yes,No,5.9,No,2,Average
+5.1,65.1,77.7,College,Yes,Yes,9.4,Yes,2,Pass
+2.2,83.6,100.0,College,Yes,No,6.4,No,17,Average
+3.9,63.6,98.7,High School,No,Yes,6.6,Yes,10,Average
+5.2,47.9,83.2,College,No,Yes,7.4,Yes,19,Average
+2.7,50.6,78.5,Graduate,Yes,Yes,8.9,Yes,4,Average
+5.8,75.7,79.4,College,Yes,No,8.0,Yes,18,Average
+3.8,78.9,85.4,College,Yes,No,7.5,No,18,Average
+4.4,61.4,65.7,College,Yes,No,7.6,No,14,Average
+3.8,84.6,74.9,High School,Yes,No,7.1,No,15,Average
+8.7,50.1,58.0,College,Yes,No,7.7,Yes,8,Average
+5.0,74.0,82.8,High School,Yes,No,4.0,Yes,3,Average
+2.9,56.8,85.8,High School,Yes,Yes,6.6,No,14,Fail
+6.6,65.2,72.2,High School,Yes,Yes,,No,11,Average
+2.6,75.7,96.9,Graduate,No,Yes,,Yes,2,Pass
+5.4,62.1,63.3,High School,No,No,7.5,No,13,Fail
+1.1,69.2,60.4,College,No,No,6.8,No,16,Fail
+2.3,90.1,80.7,High School,Yes,Yes,9.1,No,18,Average
+5.4,66.3,90.6,Graduate,No,Yes,8.9,No,5,Pass
+6.5,87.5,98.2,High School,Yes,No,6.4,Yes,3,Pass
+5.3,58.1,72.5,College,No,Yes,6.8,Yes,6,Average
+4.8,82.9,90.9,Graduate,Yes,No,6.9,No,18,Average
+4.4,96.6,77.5,Graduate,No,No,6.5,Yes,16,Average
+2.0,40.0,75.9,High School,Yes,Yes,7.2,No,15,Fail
+3.6,63.0,88.6,Graduate,No,Yes,6.1,No,14,Average
+4.1,83.7,85.8,College,No,No,5.6,Yes,7,Average
+7.1,72.0,59.1,College,Yes,No,7.7,No,18,Average
+5.7,80.6,95.7,High School,Yes,No,7.8,Yes,7,Pass
+1.5,65.9,94.6,High School,No,No,6.0,No,17,Fail
+5.6,76.3,70.5,College,Yes,Yes,8.1,No,15,Average
+4.2,72.7,82.7,College,No,No,6.2,No,19,Average
+3.6,92.5,83.9,College,Yes,No,7.3,No,18,Fail
+6.2,78.8,81.1,College,Yes,No,8.0,No,9,Average
+7.1,80.1,71.4,College,Yes,Yes,7.0,No,16,Average
+6.9,68.8,69.9,High School,Yes,No,7.5,No,12,Average
+3.3,67.7,77.7,College,No,No,6.4,Yes,12,Fail
+4.4,68.5,92.1,High School,Yes,Yes,6.8,Yes,6,Average
+5.7,80.9,84.5,College,Yes,Yes,6.8,Yes,9,Average
+7.0,68.7,73.6,College,Yes,No,6.1,Yes,1,Average
+4.0,79.3,87.3,Graduate,Yes,Yes,6.8,No,3,Average
+4.6,100.0,50.0,High School,No,Yes,5.1,No,5,Average
+,88.1,91.8,High School,No,Yes,6.4,No,17,Average
+2.6,70.1,57.1,High School,Yes,No,6.7,Yes,5,Fail
+6.6,93.0,73.7,High School,No,No,6.7,No,16,Average
+7.7,68.9,64.6,High School,No,No,6.7,Yes,13,Average
+4.9,44.4,62.5,Graduate,Yes,Yes,6.9,No,10,Average
+7.0,59.9,91.9,High School,No,No,7.6,No,18,Average
+5.7,46.9,72.4,High School,Yes,No,8.0,Yes,1,Average
+3.7,69.7,82.2,College,Yes,No,6.2,Yes,2,Average
+5.7,75.3,77.4,College,No,No,5.6,Yes,10,Average
+8.1,100.0,83.7,College,Yes,Yes,5.7,No,5,Pass
+4.9,79.9,78.9,High School,No,No,6.4,No,13,Average
+8.1,71.7,62.6,College,No,Yes,6.6,No,18,Average
+0.0,87.4,90.0,High School,Yes,No,6.1,Yes,15,Fail
+6.6,41.8,72.1,High School,No,Yes,5.4,No,6,Average
+5.2,78.5,59.3,Graduate,Yes,Yes,6.5,No,7,Average
+4.4,86.6,72.9,High School,Yes,Yes,7.2,No,18,Average
+5.2,52.8,96.0,College,Yes,No,7.7,Yes,19,Average
+1.0,92.2,88.2,College,No,Yes,6.3,Yes,15,Average
+4.6,80.1,73.8,High School,Yes,No,6.5,No,6,Average
+5.7,68.8,73.8,Graduate,Yes,Yes,5.9,Yes,8,Average
+8.0,84.5,74.1,High School,Yes,Yes,7.0,Yes,12,Average
+4.0,100.0,100.0,College,No,No,6.0,Yes,0,Pass
+3.4,77.7,82.6,Graduate,Yes,Yes,7.7,No,7,Average
+4.0,78.7,83.2,College,Yes,Yes,4.9,No,3,Average
+6.8,68.1,90.4,Graduate,Yes,No,6.6,No,2,Pass
+5.7,62.3,80.9,High School,Yes,Yes,7.4,No,2,Average
+3.9,87.5,74.9,College,No,Yes,7.2,No,12,Average
+6.0,62.2,75.6,High School,Yes,Yes,10.0,Yes,7,Average
+5.2,76.1,77.1,College,Yes,No,,No,6,Average
+6.9,67.8,77.6,Graduate,No,No,5.8,Yes,0,Pass
+3.6,82.2,86.7,High School,Yes,No,6.9,No,15,Average
+4.3,80.0,78.6,College,No,No,4.9,Yes,5,Average
+4.2,90.6,86.8,High School,Yes,Yes,6.9,Yes,6,Pass
+2.1,67.3,77.0,College,No,Yes,6.0,Yes,11,Fail
+5.6,71.0,78.9,College,Yes,No,8.1,Yes,8,Pass
+5.5,60.3,54.0,Graduate,Yes,Yes,6.3,Yes,10,Average
+5.0,68.3,89.0,College,No,Yes,6.9,Yes,9,Average
+4.5,80.7,82.2,High School,No,Yes,6.2,No,0,Average
+2.2,86.4,90.0,High School,No,Yes,9.1,No,17,Average
+4.2,61.2,50.0,High School,Yes,No,6.6,No,3,Fail
+4.3,88.0,100.0,High School,No,Yes,9.2,No,4,Pass
+3.4,95.3,76.3,High School,No,No,8.0,No,8,Average
+4.7,81.2,91.3,Graduate,Yes,Yes,7.6,No,16,Average
+5.8,100.0,65.5,College,No,No,7.4,No,2,Pass
+8.8,63.4,85.4,College,No,Yes,7.5,Yes,15,Average
+5.3,56.3,65.4,High School,Yes,Yes,4.7,Yes,4,Average
+5.5,48.3,70.5,Graduate,Yes,No,6.7,No,15,Fail
+4.9,97.4,100.0,College,Yes,No,8.0,No,2,Pass
+1.2,84.8,75.7,High School,Yes,Yes,6.9,No,19,Fail
+4.9,74.2,80.6,College,Yes,Yes,5.3,Yes,14,Average
+5.1,79.2,88.4,College,Yes,Yes,6.9,Yes,2,Pass
+9.9,58.1,83.9,High School,Yes,Yes,9.0,No,19,Average
+4.6,100.0,79.8,College,Yes,Yes,8.5,Yes,13,Pass
+5.6,76.9,82.4,College,Yes,Yes,6.9,No,15,Average
+4.9,,100.0,High School,No,Yes,8.1,No,16,Average
+2.7,85.9,77.3,Graduate,No,Yes,6.6,No,19,Average
+7.3,82.2,80.4,Graduate,Yes,No,5.0,No,17,Average
+6.5,78.4,90.6,College,No,No,5.9,No,17,Average
+6.6,63.1,91.3,College,Yes,No,8.9,No,13,Average
+,82.1,92.2,College,Yes,Yes,6.7,No,17,Average
+7.8,100.0,85.7,College,Yes,Yes,6.7,No,14,Average
+2.2,95.2,64.3,College,Yes,No,6.6,Yes,14,Average
+6.2,98.9,97.6,High School,No,Yes,9.3,Yes,5,Pass
+9.4,67.3,64.2,College,No,Yes,9.0,Yes,14,Average
+3.0,60.2,81.6,Graduate,Yes,No,9.7,No,17,Average
+3.9,73.1,68.9,College,Yes,No,6.8,No,3,Average
+5.2,75.8,77.2,High School,Yes,No,7.4,No,7,Average
+4.0,91.4,81.9,College,Yes,Yes,5.2,Yes,14,Average
+1.9,49.6,81.9,High School,Yes,Yes,8.8,Yes,2,Average
+5.1,97.9,83.1,High School,Yes,No,5.6,No,14,Average
+2.9,72.6,97.4,High School,No,Yes,7.3,Yes,12,Average
+,68.6,83.4,High School,No,No,5.7,No,8,Average
+3.2,59.8,75.1,College,Yes,No,6.3,No,1,Average
+8.1,50.2,89.6,College,No,No,6.0,No,7,Average
+3.4,87.3,92.3,High School,Yes,Yes,6.3,Yes,19,Average
+,76.1,63.3,Graduate,Yes,Yes,6.4,Yes,16,Average
+6.6,55.7,85.2,Graduate,Yes,No,6.3,Yes,12,Average
+2.5,55.6,86.4,Graduate,Yes,No,8.0,No,0,Average
+5.5,70.0,74.4,High School,No,No,5.7,No,1,Average
+7.6,100.0,94.5,College,Yes,Yes,7.3,Yes,14,Pass
+1.8,71.1,76.2,Graduate,Yes,Yes,8.5,No,11,Fail
+5.4,52.5,79.5,College,Yes,No,6.4,No,13,Fail
+5.5,71.3,75.9,High School,Yes,No,6.1,Yes,1,Average
+6.6,70.9,78.2,High School,No,No,6.7,No,17,Average
+2.5,40.0,64.8,College,Yes,Yes,8.4,No,6,Fail
+2.4,74.2,60.7,Graduate,Yes,No,7.2,Yes,5,Average
+6.0,71.5,97.1,College,Yes,No,6.4,Yes,13,Average
+5.6,85.4,67.8,College,Yes,No,7.6,No,7,Average
+5.5,100.0,66.1,High School,Yes,Yes,5.7,No,1,Average
+5.7,91.9,52.2,College,Yes,Yes,7.8,No,16,Average
+3.6,71.0,70.3,Graduate,Yes,No,7.5,No,4,Average
+5.5,58.4,62.1,College,No,Yes,6.6,No,13,Fail
+5.6,100.0,97.7,College,No,Yes,6.0,Yes,19,Average
+3.6,75.9,90.1,Graduate,No,No,5.9,No,2,Pass
+8.7,75.2,69.7,High School,Yes,Yes,7.6,No,4,Pass
+5.9,74.6,100.0,College,Yes,No,8.5,Yes,15,Average
+2.6,78.0,89.8,High School,Yes,Yes,6.2,No,17,Fail
+6.3,72.8,74.1,College,No,No,7.6,No,16,Average
+3.1,66.4,50.0,College,Yes,No,4.5,Yes,10,Fail
+6.6,66.8,100.0,College,Yes,Yes,6.3,No,16,Average
+7.3,74.5,61.3,College,Yes,Yes,7.0,Yes,15,Average
+3.4,66.8,58.3,College,Yes,Yes,5.9,Yes,1,Average
+6.9,64.3,90.3,Graduate,Yes,Yes,5.9,Yes,3,Pass
+5.8,76.6,100.0,College,Yes,No,6.2,No,6,Pass
+6.6,71.2,94.6,High School,No,No,7.4,No,1,Pass
+8.8,97.6,84.8,College,Yes,Yes,6.8,Yes,5,Pass
+4.5,40.0,85.1,College,Yes,Yes,4.3,No,16,Fail
+3.5,91.4,88.2,High School,Yes,Yes,4.5,Yes,6,Average
+3.2,93.7,87.1,Graduate,Yes,No,6.3,No,4,Pass
+3.4,43.9,81.4,Graduate,Yes,Yes,7.5,No,4,Average
+4.8,69.9,79.3,High School,No,No,4.0,No,19,Fail
+5.7,69.4,77.2,Graduate,Yes,No,6.4,No,15,Average
+5.6,53.9,69.0,High School,No,No,6.4,Yes,18,Fail
+6.7,63.3,74.6,High School,Yes,Yes,8.7,Yes,8,Pass
+5.0,58.3,57.7,High School,Yes,No,6.5,No,4,Average
+7.9,100.0,76.8,Graduate,No,Yes,7.5,No,7,Pass
+4.5,89.0,66.1,College,Yes,Yes,7.2,Yes,8,Average
+10.4,94.1,64.8,High School,Yes,No,4.4,Yes,4,Pass
+6.3,85.8,80.2,College,Yes,No,7.9,Yes,9,Average
+3.3,58.1,94.7,College,Yes,Yes,7.3,No,1,Average
+2.9,67.1,89.0,High School,No,Yes,7.6,Yes,8,Average
+6.0,82.3,59.2,Graduate,Yes,Yes,10.0,No,10,Average
+4.6,56.7,66.1,Graduate,No,Yes,4.5,No,3,Average
+6.4,85.7,89.3,College,No,Yes,9.1,No,1,Pass
+5.9,71.4,66.2,Graduate,Yes,Yes,6.7,Yes,5,Average
+4.9,69.4,75.3,College,No,Yes,7.3,No,13,Fail
+3.3,85.7,84.6,Graduate,Yes,No,6.9,Yes,0,Pass
+2.0,81.7,66.4,College,No,No,6.5,No,17,Fail
+4.1,69.6,79.3,College,Yes,No,6.3,No,6,Average
+6.7,92.4,62.0,High School,Yes,Yes,7.4,Yes,0,Pass
+5.4,58.8,70.8,Graduate,Yes,No,5.2,No,0,Average
+2.5,84.2,81.8,College,Yes,No,7.9,No,0,Average
+5.3,83.9,58.9,High School,Yes,No,6.5,No,3,Average
+5.8,70.4,83.3,High School,No,No,5.6,Yes,3,Average
+3.2,79.9,77.8,College,Yes,No,6.5,No,17,Fail
+5.3,56.2,84.6,College,Yes,No,8.5,No,10,Average
+5.1,88.9,80.7,College,No,Yes,6.4,No,0,Average
+2.7,72.2,94.4,Graduate,Yes,No,7.4,No,9,Average
+5.7,67.2,79.5,High School,No,No,6.1,Yes,8,Average
+,90.7,72.8,College,No,No,7.9,No,3,Average
+7.2,64.4,79.5,High School,No,No,7.8,No,5,Pass
+7.1,53.9,84.5,Graduate,No,Yes,9.2,No,15,Average
+2.2,51.7,78.6,Graduate,Yes,Yes,6.8,No,1,Average
+3.1,84.1,78.5,College,Yes,No,7.8,Yes,17,Average
+6.0,55.8,69.6,College,No,No,7.1,Yes,9,Average
+6.0,100.0,70.0,High School,Yes,No,8.6,Yes,16,Average
+6.0,43.8,61.2,College,Yes,Yes,6.1,Yes,12,Fail
+12.0,100.0,99.0,Graduate,Yes,Yes,7.9,No,17,Pass
+6.1,,63.1,College,No,No,6.8,Yes,12,Average
+7.3,73.5,69.7,College,Yes,No,6.9,Yes,16,Average
+6.9,66.8,69.4,College,Yes,No,7.1,No,4,Average
+6.3,81.0,88.7,Graduate,Yes,Yes,7.3,No,10,Average
+4.4,74.4,74.5,High School,Yes,No,6.9,No,6,Average
+6.5,91.5,93.0,High School,Yes,Yes,7.3,No,9,Pass
+3.5,76.7,69.9,College,Yes,No,8.9,Yes,16,Average
+4.5,77.3,81.3,Graduate,Yes,Yes,8.2,No,14,Average
+4.0,69.5,68.0,High School,No,Yes,8.0,No,17,Fail
+5.2,74.1,100.0,High School,Yes,No,6.5,Yes,18,Average
+9.6,79.6,63.7,High School,No,No,5.9,No,1,Average
+1.3,49.3,81.7,High School,No,Yes,8.1,No,3,Fail
+6.4,54.8,85.6,College,Yes,No,8.1,Yes,2,Average
+1.8,86.1,83.0,College,Yes,Yes,8.8,Yes,6,Average
+4.1,77.6,75.8,College,Yes,Yes,6.3,Yes,17,Fail
+7.2,72.2,76.4,College,No,Yes,6.7,Yes,9,Pass
+5.1,75.3,78.5,College,Yes,Yes,5.0,No,6,Average
+2.8,80.2,76.2,Graduate,Yes,No,6.5,No,7,Average
+3.6,66.9,89.6,College,Yes,Yes,8.2,Yes,5,Average
+6.4,63.3,100.0,Graduate,Yes,Yes,6.4,No,0,Pass
+3.5,77.9,71.3,College,Yes,No,7.8,No,3,Average
+5.4,60.3,61.6,High School,Yes,Yes,6.8,No,13,Fail
+5.1,81.1,76.9,College,No,No,7.4,No,16,Average
+3.7,49.5,100.0,High School,Yes,Yes,5.6,Yes,19,Fail
+9.3,90.4,68.4,College,Yes,No,7.1,No,17,Average
+6.3,82.1,97.7,High School,Yes,Yes,4.0,No,10,Average
+0.9,78.8,98.1,High School,No,Yes,6.8,No,13,Fail
+5.4,89.7,71.4,Graduate,Yes,Yes,5.0,No,8,Average
+3.7,100.0,84.8,High School,No,Yes,8.4,Yes,14,Average
+6.7,90.2,97.5,Graduate,Yes,Yes,7.9,No,11,Pass
+3.4,47.4,73.5,High School,Yes,No,7.6,Yes,9,Fail
+4.8,55.8,75.6,College,Yes,No,8.8,No,18,Fail
+6.0,65.6,71.0,College,Yes,No,5.9,No,18,Average
+6.7,75.4,65.8,College,Yes,No,9.1,Yes,5,Average
+2.6,82.8,70.2,High School,Yes,Yes,8.1,No,19,Fail
+4.3,64.1,63.3,High School,No,Yes,6.7,Yes,5,Average
+4.1,77.8,78.4,High School,Yes,Yes,8.4,No,7,Average
+3.7,63.7,68.8,High School,Yes,Yes,5.7,No,0,Average
+8.5,65.8,80.8,College,Yes,No,6.0,No,16,Average
+5.8,53.9,59.3,Graduate,Yes,No,6.3,No,16,Average
+2.5,61.2,82.0,Graduate,Yes,Yes,6.4,No,14,Fail
+6.8,54.7,88.0,College,Yes,Yes,5.7,No,6,Average
+9.2,60.4,54.1,College,Yes,No,8.5,No,18,Fail
+7.1,90.8,82.5,College,Yes,No,6.7,No,2,Pass
+2.0,60.8,92.7,High School,Yes,Yes,7.4,Yes,10,Average
+4.0,100.0,63.5,Graduate,Yes,No,6.3,No,19,Average
+7.5,82.4,98.1,College,Yes,No,4.8,Yes,18,Average
+3.6,77.8,83.0,College,Yes,Yes,7.3,No,8,Pass
+5.9,62.1,69.5,High School,No,Yes,4.7,Yes,9,Average
+,85.5,77.3,College,Yes,No,6.9,Yes,1,Pass
+3.1,66.4,84.7,College,Yes,No,5.4,No,0,Average
+4.9,76.8,78.9,Graduate,Yes,No,9.4,No,15,Average
+0.0,100.0,84.5,College,No,Yes,8.1,Yes,17,Average
+3.0,73.6,67.0,College,No,Yes,7.1,Yes,16,Fail
+4.5,92.2,80.0,Graduate,Yes,No,8.5,No,5,Pass
+2.5,64.5,61.0,High School,No,No,6.0,No,13,Fail
+8.3,74.5,76.7,College,Yes,Yes,7.7,Yes,14,Average
+2.1,100.0,67.2,High School,Yes,No,7.2,Yes,13,Average
+4.1,65.6,69.2,College,No,No,7.3,No,2,Average
+5.3,100.0,92.8,Graduate,No,No,8.5,Yes,18,Pass
+7.9,85.6,91.1,High School,Yes,No,7.9,No,11,Average
+2.1,,85.3,Graduate,Yes,No,7.3,No,1,Average
+7.3,84.5,64.9,High School,Yes,Yes,5.0,No,2,Average
+5.0,89.6,74.2,Graduate,Yes,No,5.8,Yes,17,Average
+3.0,84.3,92.6,College,No,Yes,6.9,No,0,Average
+5.9,51.4,79.7,Graduate,Yes,No,7.1,No,19,Fail
+5.4,64.1,100.0,High School,Yes,Yes,5.6,No,5,Average
+3.8,71.3,82.7,Graduate,Yes,No,9.9,No,4,Average
+5.1,73.9,80.3,College,Yes,Yes,8.8,No,0,Pass
+4.2,84.3,74.3,High School,Yes,Yes,7.7,No,18,Average
+5.2,77.7,79.6,Graduate,Yes,Yes,7.1,No,0,Pass
+,55.0,76.2,High School,No,Yes,6.7,No,15,Average
+8.2,80.7,86.5,Graduate,No,No,5.9,No,11,Pass
+2.5,84.2,89.5,High School,Yes,No,7.1,No,7,Average
+9.3,83.4,68.6,College,No,No,7.3,Yes,15,Average
+1.1,91.2,62.0,College,No,Yes,5.5,No,0,Average
+4.7,87.5,56.0,High School,No,Yes,7.4,No,3,Average
+6.2,81.9,84.1,High School,Yes,Yes,6.8,Yes,9,Average
+5.6,73.9,64.8,High School,Yes,Yes,4.7,Yes,10,Average
+3.8,50.1,52.2,College,Yes,No,6.0,No,16,Fail
+4.6,81.4,82.7,High School,Yes,Yes,6.5,No,6,Pass
+4.0,78.1,100.0,College,Yes,Yes,9.3,No,11,Pass
+3.8,79.1,77.9,High School,Yes,Yes,7.7,Yes,6,Average
+6.7,55.8,88.1,High School,Yes,Yes,5.4,No,11,Average
+5.7,58.8,79.0,College,No,No,,Yes,14,Average
+3.6,90.8,76.8,High School,Yes,No,5.1,No,1,Average
+6.8,74.4,89.0,Graduate,Yes,Yes,,Yes,13,Pass
+5.6,85.2,74.5,Graduate,No,Yes,6.4,Yes,12,Average
+6.6,75.4,81.2,College,No,Yes,6.9,Yes,3,Pass
+6.3,75.4,81.9,College,No,Yes,8.6,Yes,13,Pass
+3.3,,70.0,Graduate,No,Yes,5.5,Yes,13,Average
+3.9,67.3,89.9,High School,Yes,No,5.3,Yes,15,Average
+,76.4,75.9,High School,No,No,6.3,No,6,Average
+6.2,68.1,68.9,High School,Yes,No,8.2,No,18,Fail
+5.0,68.5,84.4,College,Yes,Yes,5.2,Yes,1,Average
+5.2,70.4,67.2,High School,Yes,Yes,4.0,No,9,Fail
+7.6,78.3,78.3,College,Yes,No,6.5,Yes,17,Average
+,67.8,77.9,Graduate,Yes,No,7.7,No,16,Average
+6.1,93.8,91.0,Graduate,Yes,No,8.4,Yes,4,Pass
+4.6,61.6,83.7,College,No,Yes,6.4,Yes,11,Average
+4.6,72.2,77.7,High School,Yes,No,6.5,No,5,Average
+7.2,68.4,87.8,Graduate,Yes,Yes,8.4,No,8,Pass
+,96.7,94.7,College,No,No,4.8,No,19,Average
+6.6,77.9,84.7,High School,Yes,No,6.5,No,0,Pass
+7.6,90.5,78.1,High School,Yes,No,7.2,No,14,Average
+5.0,52.7,62.3,Graduate,Yes,Yes,7.5,Yes,5,Average
+6.4,79.0,65.2,College,Yes,No,6.4,Yes,18,Fail
+4.4,88.3,74.3,Graduate,Yes,Yes,7.0,Yes,17,Average
+5.6,76.2,70.7,Graduate,No,Yes,4.0,Yes,5,Average
+4.7,91.0,75.8,College,Yes,Yes,6.2,No,12,Average
+5.2,67.2,78.7,College,Yes,No,7.5,No,0,Pass
+6.2,96.1,84.4,College,No,Yes,5.8,Yes,12,Average
+3.4,100.0,77.2,High School,No,Yes,7.1,No,6,Average
+9.2,69.6,83.8,College,Yes,No,7.5,No,14,Pass
+3.0,68.3,78.8,College,Yes,Yes,6.6,Yes,11,Average
+2.6,96.8,54.3,College,Yes,No,7.2,Yes,0,Average
+7.3,98.7,66.7,Graduate,Yes,Yes,5.8,Yes,14,Average
+6.6,67.2,76.3,College,Yes,Yes,6.8,Yes,3,Average
+6.2,68.7,63.5,College,Yes,No,7.7,Yes,12,Average
+6.3,70.8,85.2,College,No,Yes,7.2,No,4,Pass
+5.0,54.8,96.4,College,Yes,Yes,6.3,Yes,1,Average
+3.2,61.2,92.6,College,Yes,No,7.3,Yes,0,Average
+5.2,59.9,75.4,High School,Yes,No,7.9,No,15,Fail
+3.6,63.5,95.9,College,Yes,No,4.5,No,5,Average
+7.0,74.5,79.8,High School,Yes,Yes,8.4,No,15,Average
+4.7,78.5,74.0,College,Yes,Yes,6.6,Yes,13,Average
+3.3,98.3,70.6,College,No,No,7.5,Yes,2,Pass
+4.4,60.0,74.4,College,Yes,No,8.4,No,14,Fail
+5.8,89.8,73.3,Graduate,Yes,No,5.4,Yes,2,Average
+3.9,71.8,80.0,College,Yes,No,6.1,Yes,1,Average
+3.4,74.3,79.9,College,Yes,No,6.7,No,0,Average
+5.5,85.1,78.0,College,Yes,Yes,6.1,No,8,Average
+5.5,58.2,83.2,College,Yes,Yes,9.1,No,8,Average
+4.0,80.7,92.3,High School,Yes,No,6.0,No,6,Average
+4.1,77.5,89.4,High School,Yes,Yes,6.3,No,2,Average
+5.5,82.4,60.2,College,No,Yes,7.2,Yes,17,Fail
+2.1,79.3,50.0,College,No,No,5.6,Yes,10,Fail
+2.2,100.0,89.2,High School,No,No,6.5,Yes,6,Average
+3.6,65.4,61.6,High School,No,Yes,7.4,Yes,8,Average
+4.6,67.0,75.3,High School,Yes,Yes,6.6,No,0,Average
+5.6,65.7,64.0,Graduate,No,Yes,6.9,No,13,Average
+8.0,66.7,56.4,High School,Yes,No,6.4,No,19,Average
+6.7,65.4,84.5,College,No,No,5.2,Yes,5,Average
+4.7,92.8,87.1,High School,No,Yes,7.4,Yes,6,Average
+5.0,96.3,71.1,College,No,Yes,,Yes,9,Average
+3.0,,50.0,High School,No,No,7.0,Yes,6,Fail
+5.0,62.5,71.4,High School,Yes,Yes,7.3,Yes,1,Average
+4.4,82.1,82.7,College,Yes,No,7.8,No,3,Pass
+5.6,66.7,60.3,High School,Yes,No,5.5,No,16,Fail
+3.3,84.5,80.2,High School,Yes,Yes,9.0,No,0,Pass
+6.0,78.0,77.8,High School,Yes,No,7.2,No,9,Average
+8.1,52.3,85.0,High School,Yes,Yes,9.0,No,18,Average
+4.8,98.2,79.4,High School,No,Yes,6.1,Yes,14,Average
+5.8,100.0,66.3,High School,Yes,No,9.2,Yes,9,Average
+6.4,65.8,92.4,Graduate,No,Yes,7.9,Yes,18,Average
+4.2,69.2,76.1,College,No,No,7.7,No,11,Average
+5.4,79.3,77.7,College,No,No,7.3,No,15,Average
+5.0,80.0,66.8,High School,No,Yes,6.7,Yes,8,Average
+5.2,84.9,72.7,Graduate,Yes,Yes,8.4,No,14,Average
+3.5,100.0,67.4,College,No,Yes,7.2,No,16,Fail
+5.0,72.3,75.9,High School,No,Yes,4.6,Yes,13,Average
+6.0,63.0,98.5,College,Yes,Yes,5.7,Yes,17,Average
+7.9,54.3,61.5,High School,Yes,Yes,6.8,No,1,Average
+6.9,64.0,58.6,High School,No,Yes,7.4,No,3,Average
+9.3,74.5,95.7,College,Yes,No,6.9,Yes,17,Pass
+3.5,100.0,75.5,Graduate,Yes,No,8.5,No,6,Average
+6.7,67.2,70.0,College,Yes,No,4.7,Yes,12,Average
+5.4,78.4,90.5,College,Yes,Yes,7.2,No,14,Average
+9.4,74.8,70.7,Graduate,Yes,Yes,4.8,No,0,Pass
+3.4,92.8,99.9,High School,No,No,7.9,No,10,Average
+3.3,100.0,86.1,High School,Yes,Yes,6.9,No,9,Average
+3.8,67.0,72.1,College,Yes,Yes,7.5,No,4,Average
+0.8,67.7,100.0,College,Yes,No,6.0,No,15,Average
+3.9,90.7,70.7,College,Yes,No,8.5,Yes,10,Average
+3.5,85.2,86.9,Graduate,No,No,,No,5,Average
+5.3,100.0,81.6,College,Yes,Yes,7.7,Yes,8,Pass
+5.7,83.8,93.6,College,Yes,No,6.8,No,12,Average
+8.8,69.6,96.7,High School,Yes,No,7.7,No,7,Pass
+6.9,,78.4,Graduate,Yes,No,6.2,No,13,Average
+3.8,91.6,69.0,Graduate,No,No,8.0,No,0,Pass
+3.2,87.3,83.5,Graduate,No,No,9.0,No,16,Average
+6.0,82.6,69.9,High School,Yes,No,8.3,Yes,4,Average
+2.4,91.0,100.0,College,Yes,Yes,6.1,No,1,Average
+8.7,92.5,79.6,High School,Yes,No,7.4,Yes,8,Pass
+7.4,95.7,73.6,High School,Yes,No,5.4,Yes,3,Pass
+4.1,84.7,80.2,High School,Yes,No,7.7,Yes,16,Average
+1.6,72.5,61.8,College,Yes,Yes,7.5,No,16,Fail
+7.7,77.2,66.3,College,Yes,Yes,4.8,No,17,Average
+4.8,93.1,92.4,High School,Yes,No,5.6,No,15,Average
+7.5,62.7,70.1,College,No,No,6.7,No,7,Average
+1.8,80.5,65.4,College,No,No,6.6,Yes,10,Fail
+3.8,69.1,84.4,College,Yes,No,5.5,Yes,17,Fail
+5.0,75.4,92.2,High School,No,No,7.5,No,9,Average
+5.1,94.2,86.6,College,Yes,No,7.3,No,12,Average
+4.1,77.9,90.0,College,Yes,No,6.8,No,16,Average
+6.2,75.7,68.9,High School,No,No,,Yes,17,Average
+2.9,54.6,60.9,High School,No,No,8.3,No,9,Fail
+4.7,86.2,96.0,College,No,Yes,9.0,No,15,Pass
+5.2,84.7,74.1,Graduate,Yes,Yes,6.4,Yes,19,Average
+6.0,100.0,75.0,College,Yes,No,6.3,No,4,Pass
+6.4,70.4,93.9,College,No,Yes,7.6,No,12,Average
+2.8,78.3,84.7,College,Yes,Yes,6.6,No,17,Fail
+1.9,78.7,83.5,College,Yes,Yes,6.8,Yes,16,Fail
+7.6,98.7,100.0,High School,Yes,Yes,7.9,No,8,Pass
+5.7,73.6,70.3,College,Yes,Yes,4.7,Yes,13,Average
+3.5,79.2,89.1,Graduate,Yes,Yes,8.6,Yes,16,Average
+8.1,84.1,78.7,College,Yes,No,7.1,No,3,Pass
+5.2,77.8,81.2,Graduate,No,No,,No,17,Average
+7.4,68.3,96.3,College,Yes,Yes,6.9,Yes,19,Average
+5.1,77.9,84.1,High School,Yes,Yes,7.0,No,14,Average
+9.1,91.1,84.5,Graduate,Yes,No,4.9,No,10,Pass
+8.5,59.6,90.9,High School,Yes,Yes,8.8,No,11,Pass
+4.5,77.0,73.6,College,Yes,No,7.0,No,8,Average
+6.9,64.5,67.9,High School,Yes,No,7.5,No,12,Average
+6.3,92.9,65.5,High School,No,No,8.1,No,14,Average
+7.7,52.2,54.4,College,Yes,Yes,5.8,Yes,14,Average
+3.1,66.6,100.0,High School,No,No,7.6,Yes,4,Pass
+6.4,80.7,64.8,College,Yes,Yes,6.7,No,18,Fail
+7.1,98.5,75.3,College,Yes,No,8.0,No,19,Average
+1.5,74.0,74.7,High School,Yes,No,4.4,No,13,Fail
+2.6,66.7,81.7,High School,Yes,Yes,6.9,Yes,16,Fail
+0.9,100.0,87.8,College,No,Yes,6.3,Yes,17,Fail
+4.5,,88.3,High School,Yes,Yes,7.5,No,2,Average
+6.4,42.0,71.0,College,Yes,No,7.6,Yes,1,Average
+8.0,81.6,76.0,College,No,Yes,6.2,No,0,Pass
+5.1,67.5,81.4,Graduate,No,No,6.1,Yes,9,Average
+8.3,59.7,75.0,College,No,Yes,6.9,No,18,Average
+2.2,,97.3,College,Yes,No,5.9,No,16,Average
+1.6,78.7,83.9,College,No,No,8.0,Yes,11,Average
+4.9,66.5,86.8,High School,Yes,No,6.6,No,0,Pass
+5.8,55.8,86.0,High School,Yes,No,4.0,Yes,11,Average
+4.9,88.1,92.1,College,Yes,Yes,6.6,No,16,Average
+0.9,84.8,80.2,College,Yes,Yes,5.8,No,2,Average
+4.8,73.5,62.4,College,Yes,No,5.0,No,10,Average
+2.4,100.0,82.8,Graduate,Yes,Yes,5.5,No,16,Average
+6.3,58.9,70.2,Graduate,No,Yes,7.1,No,2,Pass
+5.7,52.1,71.7,Graduate,Yes,Yes,8.6,Yes,7,Average
+3.1,64.6,85.0,College,Yes,Yes,7.4,Yes,19,Fail
+4.0,74.3,92.9,High School,Yes,Yes,6.3,No,3,Average
+2.9,78.7,78.3,College,No,No,7.5,No,6,Average
+4.9,71.4,81.7,College,Yes,Yes,6.4,No,13,Average
+6.9,80.3,98.4,College,Yes,No,6.2,No,13,Average
+3.0,56.2,80.9,College,No,Yes,5.6,No,3,Average
+6.0,96.7,100.0,College,No,No,4.9,No,15,Average
+3.9,73.8,84.8,College,Yes,Yes,6.5,No,0,Average
+3.4,91.8,56.9,High School,Yes,No,7.2,No,16,Fail
+4.8,80.1,87.0,College,No,No,6.9,No,9,Average
+2.9,81.9,82.6,High School,Yes,Yes,6.5,Yes,15,Average
+3.9,,93.5,Graduate,Yes,No,5.9,Yes,15,Average
+2.6,81.7,86.1,High School,No,No,7.7,Yes,7,Average
+8.9,84.6,76.3,High School,Yes,No,5.4,Yes,6,Pass
+5.1,94.9,63.3,High School,Yes,No,7.9,Yes,5,Average
+3.6,77.9,75.5,College,Yes,Yes,5.8,No,15,Average
+5.4,85.6,67.8,College,Yes,No,6.1,No,19,Average
+4.8,73.7,71.0,High School,Yes,Yes,5.2,No,15,Average
+4.6,96.6,85.1,High School,No,Yes,6.4,No,6,Average
+6.2,64.9,98.0,College,Yes,No,8.2,Yes,8,Pass
+6.5,100.0,82.7,High School,Yes,Yes,7.6,Yes,13,Pass
+3.9,74.4,63.6,College,Yes,No,8.2,Yes,10,Average
+3.8,53.5,83.3,College,Yes,No,7.6,No,13,Fail
+4.4,76.9,92.4,College,No,No,5.7,Yes,6,Average
+0.4,64.8,70.7,High School,Yes,No,6.6,Yes,0,Average
+2.0,87.6,76.4,Graduate,Yes,Yes,6.1,No,12,Average
+7.7,65.2,78.2,College,Yes,Yes,8.6,No,19,Average
+8.3,68.3,68.6,College,Yes,Yes,5.6,Yes,2,Pass
+4.5,46.7,85.8,High School,Yes,Yes,8.1,No,19,Fail
+6.2,68.2,76.5,College,No,Yes,8.1,No,3,Average
+5.6,40.0,83.0,High School,No,Yes,9.2,No,10,Average
+11.2,51.2,67.4,College,Yes,No,6.5,No,1,Pass
+7.2,86.4,72.8,Graduate,Yes,No,7.9,Yes,13,Pass
+4.7,86.8,86.7,College,No,Yes,9.7,Yes,11,Average
+3.1,81.4,73.5,High School,No,No,6.3,No,16,Fail
+1.8,60.5,98.7,High School,Yes,Yes,5.2,No,11,Fail
+5.4,74.3,73.2,College,Yes,Yes,4.7,No,11,Average
+3.5,74.9,80.7,High School,Yes,No,7.9,No,0,Average
+2.2,57.6,89.2,High School,No,No,4.7,No,12,Fail
+3.7,97.6,61.0,College,No,No,6.6,No,13,Fail
+2.8,88.2,56.9,College,Yes,Yes,7.5,No,1,Average
+8.4,71.7,59.7,High School,Yes,No,7.2,No,11,Average
+6.8,75.4,93.2,Graduate,No,No,7.5,Yes,15,Average
+5.0,78.1,71.4,High School,No,No,7.3,No,3,Average
+8.0,44.4,100.0,Graduate,No,No,8.5,Yes,7,Pass
+5.2,71.3,71.2,High School,No,No,,Yes,1,Average
+3.3,64.8,80.2,Graduate,Yes,No,6.2,No,9,Average
+8.0,60.0,96.5,College,Yes,No,6.1,Yes,8,Pass
+6.1,70.8,100.0,Graduate,Yes,No,8.0,Yes,14,Pass
+2.9,100.0,100.0,Graduate,Yes,No,8.1,Yes,12,Average
+4.6,84.6,92.5,High School,Yes,Yes,7.5,No,16,Average
+3.2,66.4,90.3,Graduate,No,No,8.4,No,15,Average
+2.2,83.6,85.1,College,Yes,Yes,5.6,No,1,Average
